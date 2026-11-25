@@ -19,8 +19,8 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 EXCUSE = (
     "I lost the bounty, boss: I spent the whole deadline rehearsing this "
-    "apology in twelve tones of confidence, and forgot to submit anything "
-    "worth apologizing for."
+    "apology in fourteen tones of confidence, and never got round to "
+    "submitting anything worth apologizing for."
 )
 
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
